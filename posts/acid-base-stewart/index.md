@@ -7,6 +7,8 @@
 .. link: 
 .. description: 
 .. type: text
+.. extra_javascript:
+	file.js
 -->
 
 sdfsdfsdf
