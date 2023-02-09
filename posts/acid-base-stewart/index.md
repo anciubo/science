@@ -11,7 +11,4 @@
 	file.js
 -->
 
-sdfsdfsdf
-sfsfsdfsd
-
-<script src="../../file.js" id="58d37abe-38f7-4e05-b893-675403286140"></script>
+## Acid base status
